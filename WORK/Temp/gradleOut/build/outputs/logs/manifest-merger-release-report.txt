@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:2:1-9:12
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:2:1-37:12
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:70-122
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:2:123-153
+application
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:4:3-15:17
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:4:3-6:17
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:4:3-6:17
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:14:5-35:19
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:14:5-35:19
+	android:icon
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:4:104-135
+	android:allowBackup
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:4:16-43
+	android:banner
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:4:66-103
+	android:isGame
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:4:44-65
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:5-10:16
+	android:screenOrientation
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:168-205
+	android:excludeFromRecents
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:134-167
+	android:launchMode
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:206-237
+	android:hardwareAccelerated
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:420-455
+	android:configChanges
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:238-419
+	android:theme
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:15-79
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:5:80-133
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.INFO
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:7:17-58
+category#android.intent.category.INFO
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:8:9-65
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:8:19-62
+meta-data#unityplayer.SkipPermissionsDialog
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:11:5-89
+	android:value
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:11:65-86
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:11:16-64
+meta-data#unity.build-id
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:12:5-101
+	android:value
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:12:46-98
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:12:16-45
+meta-data#unity.splash-mode
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:13:5-69
+	android:value
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:13:49-66
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:13:16-48
+meta-data#unity.splash-enable
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:14:5-75
+	android:value
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:14:51-72
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:14:16-50
+uses-feature#0x00020000
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:16:3-52
+	android:glEsVersion
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:16:17-49
+uses-permission#android.permission.INTERNET
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:17:3-65
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:7:3-65
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:7:3-65
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:12:5-67
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:17:20-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:18:3-69
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:18:20-66
+uses-feature#android.hardware.microphone
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:19:3-87
+	android:required
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:19:60-84
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:19:17-59
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:20:3-78
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:20:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:21:3-88
+	android:required
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:21:61-85
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:21:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:22:3-99
+	android:required
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:22:72-96
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:22:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:23:3-108
+	android:required
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:23:81-105
+	android:name
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml:23:17-80
+uses-sdk
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:3:3-45
+MERGED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:3:3-45
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:7:5-9:41
+MERGED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		ADDED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		MERGED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+		INJECTED from D:\Relaxation\Relaxation-Destination\WORK\Temp\gradleOut\src\main\AndroidManifest.xml
+meta-data#com.samsung.android.vr.application.mode
+ADDED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:5:5-96
+	android:value
+		ADDED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:5:71-94
+	android:name
+		ADDED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:5:16-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:8:3-66
+	android:name
+		ADDED from [:OVRPlugin:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\OVRPlugin.aar\056445e0ebdffc2a26e572bf4a2248b5\AndroidManifest.xml:8:20-63
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:11:22-76
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:16:13-65
+activity#com.unity3d.ads.adunit.AdUnitTransparentActivity
+ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:20:9-24:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:23:13-47
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:24:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:21:13-76
+activity#com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:25:9-29:86
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:28:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:27:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:29:13-83
+	android:name
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:26:13-84
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:30:9-34:74
+	android:hardwareAccelerated
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:33:13-48
+	android:configChanges
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:32:13-170
+	android:theme
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from [:UnityAds:] C:\Users\ALEXJ\.gradle\caches\transforms-1\files-1.1\UnityAds.aar\e77fb89b50a85e36fc85c21cd872d94a\AndroidManifest.xml:31:13-73
